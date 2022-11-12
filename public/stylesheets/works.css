@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: none; 
+    background-color: antiquewhite;
+ }
+ .center {
+    font-size: 30px;
+    color: blue;
+    display: flex;
+    justify-content: center;
+ }
+
+ .position {
+    padding: 40px;
+    display: flex;
+    justify-content: space-around; 
+ }
+
+ img {
+    padding: 0px 9px;
+ }
+
+ p {
+    width: 400px;
+ }
+
+ .regresar {
+    display: flex;
+    justify-content: center;
+ }
